@@ -1,5 +1,30 @@
 GitOwl58 Fastfetch Config CachyOS Hyprland
 
+# Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/cachyOS.png" width="400"/><br/>
+      <sub><b>CachyOS</b></sub>
+    </td>
+    <td align="center">
+      <img src="Screenshots/kirby.png" width="400"/><br/>
+      <sub><b>Kirby</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/deathnote.png" width="400"/><br/>
+      <sub><b>Death Note</b></sub>
+    </td>
+    <td align="center">
+      <img src="Screenshots/abstract_binary.png" width="400"/><br/>
+      <sub><b>Abstract Binary</b></sub>
+    </td>
+  </tr>
+</table>
+
 # Requirements
 
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) installed
