@@ -23,6 +23,12 @@ GitOwl58 Fastfetch Config CachyOS Hyprland
       <sub><b>Abstract Binary</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/tanjiro.png" width="400"/><br/>
+      <sub><b>Tanjiro</b></sub>
+    </td>
+  </tr>
 </table>
 
 # Requirements
